@@ -34,6 +34,9 @@ if ( ! defined( 'WPLB_WIDGETS_DIR' ) )
   define( 'WPLB_WIDGETS_DIR', plugin_dir_path( __FILE__ ) );
   define( 'WPLB_WIDGETS_CLASS_DIR', trailingslashit( WPLB_WIDGETS_DIR . 'class' ) );
 
+$languages_path = plugin_basename( dirname( __FILE__ ).'/languages' );
+load_plugin_textdomain( 'wplb', '', $languages_path );
+
 include_once ('wplb-function.php');   
 
     
