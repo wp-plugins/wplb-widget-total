@@ -1,0 +1,135 @@
+.wplb-widgets-total{
+
+}
+.wplb-widgets-total ul {
+  list-style: none;
+  margin: 0;
+}
+.wplb-widgets-total li {
+  border-top: 1px solid #eaeaea;
+  border-top: 1px solid rgba(51, 51, 51, 0.1);
+  padding: 0.7667em 0;
+}
+.wplb-widgets-total li.cat-item{
+  padding:5px 0 5px 13px;
+  line-height: 25px;
+  background: url("../images/arrow_item.gif") 0 15px no-repeat;
+  transition: all 200ms ease-in 0s;
+  list-style-type: none;
+}
+.wplb-widgets-total li:first-child {
+  border-top: 0;
+}
+.wplb-widgets-total li:last-child {
+  padding-bottom: 0;
+}
+.wplb-widgets-total li {
+  padding: 0.9643em 0;
+}
+.wplb-widgets-total .children {
+  border-top: 1px solid #eaeaea;
+  border-top: 1px solid rgba(51, 51, 51, 0.1);
+  margin:0;
+  padding-top: 0;
+}
+.wplb-widgets-total input{
+  outline: none;
+}
+.wplb-socials-widget {
+	text-align: center;
+}
+.wplb-socials-widget a{
+	margin: 3px;
+}
+.wplb-widgets-total .cat-item .current-cat{
+  font-weight: bold;
+}
+.wplb-custom-categories-widget .widget-content ul{
+	list-style: none;
+}
+.wplb-thumbnail {
+  margin: 0 15px 10px 2px;
+  position: relative;
+  background: #FFF;
+  padding: 2px;
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  box-shadow: 0 0 2px #B5B5B5;
+  -moz-box-shadow: 0 0 2px #b5b5b5;
+  -webkit-box-shadow: 0 0 2px #B5B5B5;
+  line-height: 0;
+  float: left;
+}
+.wplb-thumbnail img {
+  -webkit-transition: all .40s;
+  -moz-transition: all .40s;
+  -o-transition: all .40s;
+  transition: all .40s;
+  height: auto;
+  max-width: 100%;
+}
+.widget-container li.wplb-item {
+  padding: 0 0 5px 12px;
+  line-height: 18px;
+  overflow: hidden;
+}
+.wplb-post-meta{
+	color:#aaa;
+	font-size: 85%;
+	margin:5px 0;
+}
+.wplb-listing li.wplb-item{
+  display: block;
+  clear: both;
+}
+.wplb-listing li.wplb-item h3.wplb-title{
+  display: inline;
+}
+.wplb-listing li.wplb-item p.wplb-meta{
+  overflow: hidden;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.wplb-listing li.wplb-item span{
+  float: left;
+  margin-right: 5px;
+}
+.collapse {
+  display: none;
+}
+/*.current-cat > ul, 
+.current-cat-parent > ul ,*/
+.collapse.in 
+{
+  display: block;
+}
+
+.collapsing {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  -webkit-transition-timing-function: ease;
+       -o-transition-timing-function: ease;
+          transition-timing-function: ease;
+  -webkit-transition-duration: .35s;
+       -o-transition-duration: .35s;
+          transition-duration: .35s;
+  -webkit-transition-property: height, visibility;
+       -o-transition-property: height, visibility;
+          transition-property: height, visibility;
+}
+span.toggle {
+  background: url('../images/arrow-accordiotion.png') no-repeat scroll 0 9px;
+  float: right;
+  height: 21px;
+  width: 19px;
+  cursor: pointer;
+   -webkit-transition: all .40s;
+  -moz-transition: all .40s;
+  -o-transition: all .40s;
+  transition: all .40s;
+}
+
+.collapsed > span.toggle {
+  background-position: 0px -11px
+}

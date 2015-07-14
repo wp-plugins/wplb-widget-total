@@ -1,0 +1,63 @@
+.wplb-wrapper-widget{
+	margin-bottom: 10px;
+	} 
+.wplb-wrapper-widget .wplb-widget{
+	margin-bottom: 0;
+}
+.wplb-wrapper-widget .wplb-widget label{
+	display: block;
+}
+.wplb-wrapper-widget .wplb-widget input[type=text]{
+	display: block;
+	clear: both;
+	width:100%;
+}
+.wplb-wrapper-widget .wplb-widget img{
+	max-width: 100%;
+}
+.wplb-wrapper-widget .wplb-widget input[class=src]{
+	float: left;
+	width:75%;
+}
+.wplb-wrapper-widget .screenshot{
+	clear: both;
+	margin-top: 5px;
+}
+.wplb-checkbox, .wplb-select{
+	overflow: hidden;
+	clear: both;
+}
+.wplb-checkbox_parent{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.wplb-checkbox label, .wplb-checkbox_parent label, .wplb-select label, .wplb-post_type label,.wplb-wrapper-widget .float-left label{
+	float: left;
+	margin-right: 5px;
+
+}
+.wplb-wrapper-widget .float-left input[type=text]{
+	width: 55px;
+	clear: none;
+}
+.wplb-select label, .wplb-post_type label, .wplb-wrapper-widget .float-left label{
+	line-height: 28px;
+}
+.wplb-wrapper-widget .spinner.is-active{
+	visibility:hidden;
+}
+.wplb-wrapper-widget .spinner.active{
+	visibility: visible;
+}
+.wplb-wrapper-widget .wplb-widget fieldset{
+	margin:10px auto;
+	border:1px solid #ddd;
+	padding: 0 10px 10px
+}
+.wplb-widget .button{
+	float: left;
+}
+.help{
+	font-size: smaller;
+}
+
