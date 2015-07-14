@@ -11,7 +11,7 @@ A collection of widgets for displaying Custom post, Custom taxonomy, Image with 
 
 A collection of widgets for displaying Custom post, Custom taxonomy, Image with upload button, Video (YouTube, Vimeo), Custom Post featured, Socials link, Facebook like box in your website sidebars.
 
-Features of WPLB Widgets Total:
+Features of WPLB Widget Total:
 
 -With custom post type widget 
 
