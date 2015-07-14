@@ -1,11 +1,11 @@
-=== WPLB Widgets Total ===
+=== WPLB Widget Total ===
 Tags: Custom post, Custom taxonomy, Image, Video (YouTube, Vimeo), Post featured, Socials, Facebook Like Box.
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 0.6.1
 License: GPLv2
 
-A collection of widgets for displaying Custom post, Custom taxonomy, Image with upload button, Video (YouTube, Vimeo), Custom Post featured, Socials link, Facebook like box in your website sidebars.
+A collection of widgets for displaying Custom post, Custom taxonomy, Image with upload button, Video (YouTube, Vimeo), Facebook like box and more…
 
 == Description ==
 
@@ -64,7 +64,7 @@ For more info, visit http://wplabels/wplb-widgets-total-pro
 
 == Installation ==
 
-1. Upload `wplb-widget` folder to your `/wp-content/plugins/` directory.
+1. Upload `wplb-widget-total` folder to your `/wp-content/plugins/` directory.
 2. Activate the plugin from Admin > Plugins menu.
 3. Once activated you should check with Apperance > Widget 
 
