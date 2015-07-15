@@ -63,7 +63,7 @@ For more info, visit http://wplabels/wplb-widgets-total
 Primary Features of WPLB Widgets Total Pro:
 For more info, visit http://wplabels/wplb-widgets-total-pro
 
-P.S.Please let me know how it's going. We love hearing from you.
+P.S.Please let me know how it's going. I love hearing from you.
  
 == Installation ==
 
