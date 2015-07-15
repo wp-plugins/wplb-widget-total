@@ -61,10 +61,9 @@ For more info, visit http://wplabels/wplb-widgets-total
 
 Github https://github.com/huuhabn/wplb-widget-total/
 
-Primary Features of WPLB Widgets Total Pro:
-For more info, visit http://wplabels/wplb-widgets-total-pro
-
 P.S.Please let me know how it's going. I love hearing from you.
+
+Have fun !
 
 == Installation ==
 
