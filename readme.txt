@@ -59,6 +59,8 @@ control.
 
 For more info, visit http://wplabels/wplb-widgets-total
 
+Github https://github.com/huuhabn/wplb-widget-total/
+
 Primary Features of WPLB Widgets Total Pro:
 For more info, visit http://wplabels/wplb-widgets-total-pro
 
