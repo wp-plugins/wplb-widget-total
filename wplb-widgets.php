@@ -52,7 +52,8 @@ include_once ('wplb-function.php');
             'WPLB_Widget_Video',
             'WPLB_Widget_Featured',
             'WPLB_Widget_Maps',
-            'WPLB_Widget_Facebook_Box'
+            'WPLB_Widget_Facebook_Box',
+            'WPLB_Widget_Custom_Post_Related'
         );
         $widgets_init = apply_filters('wplb_widgets_init', $widgets_init);
         

@@ -19,7 +19,7 @@ class WPLB_Widget_Custom_Post extends WPLB_Widgets
         'name'    => $this->plugin_name.__('Custom post list','wplb'),
         'options' => array(
             'classname'   => 'wplb-list-posts-widget',
-            'description' => __( 'Display ultimate display custom post', 'wplb' )
+            'description' => __( 'Display ultimate post type', 'wplb' )
           )
       );
 

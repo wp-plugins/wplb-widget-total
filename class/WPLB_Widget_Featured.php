@@ -17,7 +17,7 @@ class WPLB_Widget_Featured extends WPLB_Widgets
         'name'    => $this->plugin_name.__('Featured Custom Post','wplb'),
         'options' => array(
             'classname'   => 'wplb-widget-featured',
-            'description' => __( 'Display ultimate display custom post featured', 'wplb' )
+            'description' => __( 'Display ultimate post type featured', 'wplb' )
           )
       );
 

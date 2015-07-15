@@ -57,14 +57,13 @@ Features of WPLB Widget Total:
 control.
 * Supported multi maps
 
-
 For more info, visit http://wplabels/wplb-widgets-total
 
 Primary Features of WPLB Widgets Total Pro:
 For more info, visit http://wplabels/wplb-widgets-total-pro
 
 P.S.Please let me know how it's going. I love hearing from you.
- 
+
 == Installation ==
 
 1. Upload `wplb-widget-total` folder to your `/wp-content/plugins/` directory.
